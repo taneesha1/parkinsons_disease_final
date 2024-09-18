@@ -9,11 +9,11 @@ Best Performing Model: Random Forest achieved an accuracy of 93%, outperforming 
 
 # Dataset: 
 
-The dataset used for training contains various medical parameters such as age, gender, cholesterol levels, sleep quality, and signs of Parkinson's (e.g., tremor, rigidity).
+The dataset used is taken from Kaggle and has various medical parameters such as age, gender, cholesterol levels, sleep quality, and signs of Parkinson's (e.g., tremor, rigidity).
 
 # Objective: 
 
-To provide an efficient and accessible method for early diagnosis, especially in rural areas where specialized healthcare professionals may not be available.
+To provide an efficient and accessible method for diagnosis, especially in rural areas where specialized healthcare professionals may not be available.
 
 # Results:
 - Random Forest: 93.36% accuracy.
