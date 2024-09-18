@@ -1,4 +1,4 @@
-# OVERVIEW
+# OVERVIEW:
 
 Parkinson's disease is one of the most common neurodegenerative disorders characterized by both motor and non-motor symptoms. Today there stands no permanent solution for Parkinson’s disease. This project focuses on the detection of Parkinson's disease through various machine learning algorithms. The various algortihms used are logistic regression, decision trees, random forest, naive bayes and k-nearest neighbor.
 
@@ -19,6 +19,8 @@ To provide an efficient and accessible method for diagnosis, especially in rural
 - Random Forest: 93.36% accuracy.
 -  Decision Tree: 89.57% accuracy.
 - Logistic Regression: 80.09% accuracy.
+- Naïve Bayes: 79.62% accuracy.
+- K-nearest Neighbor	72.98% accuracy.
 - The Random Forest Classifier proved to be the most effective model for this dataset, showing significant improvements in detecting patients with Parkinson's disease.
 
 # Conclusion:
